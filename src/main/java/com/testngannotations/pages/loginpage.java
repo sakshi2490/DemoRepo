@@ -1,5 +1,5 @@
 package com.testngannotations.pages;
 
-public class loginpage {
+public class loginpge {
 
 }
